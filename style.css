@@ -1,0 +1,43 @@
+.bouton {
+    width: 400px;
+    height: 30px;
+    border: 2px solid lightblue;
+    border-radius: 3PX;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+ol {
+    margin: 20px;
+    line-height: 30px;
+}
+p{
+    margin: 20px;
+    padding: 15px;
+}
+
+#ok{
+    background-color: blue;
+    color: white;
+    height: 45px;
+    width: 115px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    top: 300px;
+    left: 185px;
+    
+}
+
+#annuler {
+    background-color: aliceblue;
+    color: blue;
+    height: 45px;
+    width: 115px;
+    border-radius: 5px;
+    position: absolute;
+    top: 300px;
+    left: 320px;
+    
+    
+}
